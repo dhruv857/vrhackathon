@@ -1,0 +1,45 @@
+Mono path[0] = 'F:/vr junk/vr4/New Unity Project/dhruv_Data/Managed'
+Mono path[1] = 'F:/vr junk/vr4/New Unity Project/dhruv_Data/Mono'
+Mono config path = 'F:/vr junk/vr4/New Unity Project/dhruv_Data/Mono/etc'
+PlayerConnection initialized from F:/vr junk/vr4/New Unity Project/dhruv_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55259
+Multi-casting "[IP] 192.168.23.1 [Port] 55259 [Flags] 2 [Guid] 3622878406 [EditorId] 2046142828 [Version] 1048832 [Id] WindowsPlayer(KillX-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.23.1:55259]
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M        (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\vr junk\vr4\New Unity Project\dhruv_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1715)
+
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found

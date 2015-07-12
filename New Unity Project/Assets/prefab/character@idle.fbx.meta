@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 84e37b2901b0a9c438410250512e31b8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: body
+    100004: //RootNode
+    100006: chest
+    100008: collarbone
+    100010: head_base
+    100012: head_tip
+    100014: hip
+    100016: Left_ankle
+    100018: Left_ball
+    100020: Left_clavicle
+    100022: Left_elbow
+    100024: Left_index_001
+    100026: Left_index_002
+    100028: Left_index_003
+    100030: Left_index_004
+    100032: Left_knee
+    100034: Left_Leg
+    100036: Left_mid_001
+    100038: Left_mid_002
+    100040: Left_mid_003
+    100042: Left_mid_004
+    100044: Left_pinky_001
+    100046: Left_pinky_002
+    100048: Left_pinky_003
+    100050: Left_pinky_004
+    100052: Left_ring_001
+    100054: Left_ring_002
+    100056: Left_ring_003
+    100058: Left_ring_004
+    100060: Left_shoulder
+    100062: Left_thumb_001
+    100064: Left_thumb_002
+    100066: Left_thumb_003
+    100068: Left_thumb_004
+    100070: Left_toes
+    100072: Left_wrist
+    100074: neck_base
+    100076: pelvis
+    100078: ribs
+    100080: Right_ankle
+    100082: Right_ball
+    100084: Right_clavicle
+    100086: Right_elbow
+    100088: Right_index_001
+    100090: Right_index_002
+    100092: Right_index_003
+    100094: Right_index_004
+    100096: Right_knee
+    100098: Right_Leg
+    100100: Right_mid_001
+    100102: Right_mid_002
+    100104: Right_mid_003
+    100106: Right_mid_004
+    100108: Right_pinky_001
+    100110: Right_pinky_002
+    100112: Right_pinky_003
+    100114: Right_pinky_004
+    100116: Right_ring_001
+    100118: Right_ring_002
+    100120: Right_ring_003
+    100122: Right_ring_004
+    100124: Right_shoulder
+    100126: Right_thumb_001
+    100128: Right_thumb_002
+    100130: Right_thumb_003
+    100132: Right_thumb_004
+    100134: Right_toes
+    100136: Right_wrist
+    100138: waist
+    400000: back
+    400002: body
+    400004: //RootNode
+    400006: chest
+    400008: collarbone
+    400010: head_base
+    400012: head_tip
+    400014: hip
+    400016: Left_ankle
+    400018: Left_ball
+    400020: Left_clavicle
+    400022: Left_elbow
+    400024: Left_index_001
+    400026: Left_index_002
+    400028: Left_index_003
+    400030: Left_index_004
+    400032: Left_knee
+    400034: Left_Leg
+    400036: Left_mid_001
+    400038: Left_mid_002
+    400040: Left_mid_003
+    400042: Left_mid_004
+    400044: Left_pinky_001
+    400046: Left_pinky_002
+    400048: Left_pinky_003
+    400050: Left_pinky_004
+    400052: Left_ring_001
+    400054: Left_ring_002
+    400056: Left_ring_003
+    400058: Left_ring_004
+    400060: Left_shoulder
+    400062: Left_thumb_001
+    400064: Left_thumb_002
+    400066: Left_thumb_003
+    400068: Left_thumb_004
+    400070: Left_toes
+    400072: Left_wrist
+    400074: neck_base
+    400076: pelvis
+    400078: ribs
+    400080: Right_ankle
+    400082: Right_ball
+    400084: Right_clavicle
+    400086: Right_elbow
+    400088: Right_index_001
+    400090: Right_index_002
+    400092: Right_index_003
+    400094: Right_index_004
+    400096: Right_knee
+    400098: Right_Leg
+    400100: Right_mid_001
+    400102: Right_mid_002
+    400104: Right_mid_003
+    400106: Right_mid_004
+    400108: Right_pinky_001
+    400110: Right_pinky_002
+    400112: Right_pinky_003
+    400114: Right_pinky_004
+    400116: Right_ring_001
+    400118: Right_ring_002
+    400120: Right_ring_003
+    400122: Right_ring_004
+    400124: Right_shoulder
+    400126: Right_thumb_001
+    400128: Right_thumb_002
+    400130: Right_thumb_003
+    400132: Right_thumb_004
+    400134: Right_toes
+    400136: Right_wrist
+    400138: waist
+    4300000: body
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: pelvis
+        weight: 1
+      - path: pelvis/hip
+        weight: 1
+      - path: pelvis/hip/Left_Leg
+        weight: 1
+      - path: pelvis/hip/Left_Leg/Left_knee
+        weight: 1
+      - path: pelvis/hip/Left_Leg/Left_knee/Left_ankle
+        weight: 1
+      - path: pelvis/hip/Left_Leg/Left_knee/Left_ankle/Left_ball
+        weight: 1
+      - path: pelvis/hip/Left_Leg/Left_knee/Left_ankle/Left_ball/Left_toes
+        weight: 1
+      - path: pelvis/hip/Right_Leg
+        weight: 1
+      - path: pelvis/hip/Right_Leg/Right_knee
+        weight: 1
+      - path: pelvis/hip/Right_Leg/Right_knee/Right_ankle
+        weight: 1
+      - path: pelvis/hip/Right_Leg/Right_knee/Right_ankle/Right_ball
+        weight: 1
+      - path: pelvis/hip/Right_Leg/Right_knee/Right_ankle/Right_ball/Right_toes
+        weight: 1
+      - path: pelvis/hip/waist
+        weight: 1
+      - path: pelvis/hip/waist/ribs
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_index_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_index_001/Left_index_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_index_001/Left_index_002/Left_index_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_index_001/Left_index_002/Left_index_003/Left_index_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_mid_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_mid_001/Left_mid_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_mid_001/Left_mid_002/Left_mid_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_mid_001/Left_mid_002/Left_mid_003/Left_mid_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_pinky_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_pinky_001/Left_pinky_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_pinky_001/Left_pinky_002/Left_pinky_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_pinky_001/Left_pinky_002/Left_pinky_003/Left_pinky_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_ring_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_ring_001/Left_ring_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_ring_001/Left_ring_002/Left_ring_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_ring_001/Left_ring_002/Left_ring_003/Left_ring_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_thumb_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_thumb_001/Left_thumb_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_thumb_001/Left_thumb_002/Left_thumb_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Left_clavicle/Left_shoulder/Left_elbow/Left_wrist/Left_thumb_001/Left_thumb_002/Left_thumb_003/Left_thumb_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/neck_base
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/neck_base/head_base
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/neck_base/head_base/head_tip
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_index_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_index_001/Right_index_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_index_001/Right_index_002/Right_index_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_index_001/Right_index_002/Right_index_003/Right_index_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_mid_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_mid_001/Right_mid_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_mid_001/Right_mid_002/Right_mid_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_mid_001/Right_mid_002/Right_mid_003/Right_mid_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_pinky_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_pinky_001/Right_pinky_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_pinky_001/Right_pinky_002/Right_pinky_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_pinky_001/Right_pinky_002/Right_pinky_003/Right_pinky_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_ring_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_ring_001/Right_ring_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_ring_001/Right_ring_002/Right_ring_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_ring_001/Right_ring_002/Right_ring_003/Right_ring_004
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_thumb_001
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_thumb_001/Right_thumb_002
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_thumb_001/Right_thumb_002/Right_thumb_003
+        weight: 1
+      - path: pelvis/hip/waist/ribs/chest/back/collarbone/Right_clavicle/Right_shoulder/Right_elbow/Right_wrist/Right_thumb_001/Right_thumb_002/Right_thumb_003/Right_thumb_004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
